@@ -37,7 +37,6 @@ Getting Started
 2. Open the relevant .ipynb notebook in Jupyter Notebook or Visual Studio Code.
 3. Make sure the required Python packages and datasets are available before running a notebook.
 4. Review the report and generated images to understand the results.
-Note: Exact package versions and setup instructions should be added if a notebook requires a specific environment.
 
 Purpose
 This repository organizes deep learning labs, assignments, experiment outputs, and project documentation in one place.
